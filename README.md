@@ -1,23 +1,3 @@
-## Hi there, I'm Pavlo Honcharenko from Ukraine! 👋
-
-### I'm a Full Stack JavaScript & TypeScript Developer!
-
-Technologies and Languages:
-- JavaScript/TypeScript, HTML/CSS/SCSS, SQL
-- React, Next.js, React Native, Expo, Redux, Apollo GraphQL, RTK, tRPC
-- Express, NestJS, GraphQL/Rest, MongoDB, PostgreSQL, MySQL, Vector, TypeORM, Redis, Jest
-- Git, GitHub Actions, Docker, Bitbucket, Bitbucket pipelines
-- Chat GPT, OpenAI API, Google APIs, Azure API
-- AWS (Elastic Beanstalk, ECR, RDS, Lambda, LB, Cognito, S3, Code Build, Code
-Pipeline, EC2, IAM, Cloud Watch), Azure (App Service, Container Registry, Application
-Insights), Digital Ocean
-
-
-
-
-
-
-
 ## Hi, I'm Pavlo 👋
 
 I'm a Full Stack Developer specializing in web and mobile application development. My expertise lies in crafting robust, high-performance solutions that are clean, maintainable, and designed to solve real business problems. Whether it's building responsive web applications, scalable APIs, or intuitive mobile experiences, I always focus on simplicity, quality, and user satisfaction.  
