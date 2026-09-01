@@ -1,6 +1,6 @@
 ## Hi, I'm Pavlo 👋
 
-I'm a Full Stack Developer specializing in web and mobile application development. My expertise lies in crafting robust, high-performance solutions that are clean, maintainable, and designed to solve real business problems. Whether it's building responsive web applications, scalable APIs, or intuitive mobile experiences, I always focus on simplicity, quality, and user satisfaction.  
+I’m a Full Stack Developer specialized in web and mobile app development. I handle the whole process: turning ideas into architectural concepts, launching to production, and maintaining the app long-term. Experienced in working directly with business stakeholders across Finance, Energy, Healthcare, and other industries.
 
 ---
 
