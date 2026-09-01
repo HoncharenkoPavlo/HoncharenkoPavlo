@@ -20,9 +20,11 @@ I’m a Full Stack Developer specialized in web and mobile app development. I ha
 | **Communication**      | SipJs, WebSockets |*              | HTML, CSS, SASS/SCSS, Ant Design, Material UI |
 
 ### ⚙️ Backend
-| **Category**        | **Technologies** |
-|---------------------|--------------|
-| **Backend**         | Express, NestJS, GraphQL/REST, WebSockets, BullMQ (NestJS integration) |
+| **Category**           | **Technologies** |
+|------------------------|------------------|
+| **Frameworks**         | Express, NestJS |
+| **API & Communication** | GraphQL, REST, WebSockets |
+| **Task Processing**    | BullMQ (NestJS integration) |
 
 ### 🗄 Databases
 | **Category**        | **Technologies** |
