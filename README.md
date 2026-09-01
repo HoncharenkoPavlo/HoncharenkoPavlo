@@ -10,10 +10,14 @@ I’m a Full Stack Developer specialized in web and mobile app development. I ha
 | **Languages**       | JavaScript/TypeScript, SQL |
 
 ### 🎨 Frontend & UI
-| **Category**        | **Technologies** |
-|---------------------|--------------|
-| **Frontend**        | React, Next.js, React Native, Expo, Redux, RTK, Apollo GraphQL, tRPC, Axios, SipJs |
-| **UI**              | HTML, CSS, SASS/SCSS, Ant Design, Material UI |
+
+| **Category**           | **Technologies** |
+|------------------------|------------------|
+| **Frameworks**         | React, Next.js, React Native, Expo |
+| **State Management**   | Redux, RTK |
+| **Data Fetching & API** | Apollo GraphQL, tRPC, Axios |
+| **UI Libraries**       | HTML, CSS, SASS/SCSS, Ant Design, Material UI |
+| **Communication**      | SipJs, WebSockets |*              | HTML, CSS, SASS/SCSS, Ant Design, Material UI |
 
 ### ⚙️ Backend
 | **Category**        | **Technologies** |
