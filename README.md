@@ -1,6 +1,6 @@
 ## Hi, I'm Pavlo 👋
 
-I’m a Full Stack Developer specialized in web and mobile app development. I handle the whole process: turning ideas into architectural concepts, launching to production, and maintaining the app long term.
+I'm a Full Stack Developer specialized in web and mobile app development. I handle the whole process: turning ideas into architectural concepts, launching to production, and maintaining the app l[...]
 
 ## 🛠 Tech Stack
 
@@ -40,7 +40,8 @@ I’m a Full Stack Developer specialized in web and mobile app development. I ha
 ### 🧪 Testing
 | **Category**        | **Technologies** |
 |---------------------|--------------|
-| **Testing**         | Jest, Cypress |
+| **Unit Testing**    | Jest |
+| **E2E Testing**     | Cypress |
 
 ### 🤖 AI & Machine Learning
 | **Category**                     | **Technologies** |
