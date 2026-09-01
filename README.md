@@ -2,21 +2,7 @@
 
 I’m a Full Stack Developer specialized in web and mobile app development. I handle the whole process: turning ideas into architectural concepts, launching to production, and maintaining the app long-term. Experienced in working directly with business stakeholders across Finance, Energy, Healthcare, and other industries.
 
----
-
-## 📈 Experience
-I have extensive experience in developing scalable web and mobile applications, including AI-powered projects. My expertise includes building RESTful and GraphQL APIs, designing robust backend architectures, and enhancing user interactions using technologies such as React, React Native, NestJS, and AWS services.  
-
----
-
-## 💼 Areas of Expertise 
-- **End-to-End Web and Mobile Solutions:** Designing and implementing full-stack applications tailored to modern business needs.  
-- **Web Services & APIs:** Developing RESTful and GraphQL APIs for seamless communication between frontend and backend systems.  
-- **Software Maintenance:** Providing ongoing support and enhancements for software products after release to ensure long-term success.  
-
----
-
-## 🛠 Skills
+## 🛠 Tech Stack
 
 ### 💻 Languages
 JavaScript/TypeScript, SQL
