@@ -1,20 +1,29 @@
 ## Hi, I'm Pavlo 👋
 
-I’m a Full Stack Developer specialized in web and mobile app development. I handle the whole process: turning ideas into architectural concepts, launching to production, and maintaining the app long-term. Experienced in working directly with business stakeholders across Finance, Energy, Healthcare, and other industries.
+I’m a Full Stack Developer specialized in web and mobile app development. I handle the whole process: turning ideas into architectural concepts, launching to production, and maintaining the app long term.
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-JavaScript/TypeScript, SQL
+| **Category** | **Technologies** |
+|---------------------|--------------|
+| **Languages**       | JavaScript/TypeScript, SQL |
 
-### 🎨 Frontend
-React, Next.js, React Native, Expo, Redux, RTK, Apollo GraphQL, tRPC, Axios, SipJs
+### 🎨 Frontend & UI
+| **Category**        | **Technologies** |
+|---------------------|--------------|
+| **Frontend**        | React, Next.js, React Native, Expo, Redux, RTK, Apollo GraphQL, tRPC, Axios, SipJs |
+| **UI**              | HTML, CSS, SASS/SCSS, Ant Design, Material UI |
 
 ### ⚙️ Backend
-Express, NestJS, GraphQL/REST, WebSockets, BullMQ (NestJS integration)
+| **Category**        | **Technologies** |
+|---------------------|--------------|
+| **Backend**         | Express, NestJS, GraphQL/REST, WebSockets, BullMQ (NestJS integration) |
 
 ### 🗄 Databases
-MongoDB, PostgreSQL, MySQL, TypeORM, Redis, Vector Databases
+| **Category**        | **Technologies** |
+|---------------------|--------------|
+| **Databases**       | MongoDB, PostgreSQL, MySQL, TypeORM, Redis, Vector Databases |
 
 ### ☁️ Cloud & DevOps
 | **Provider**       | **Services** |
@@ -24,22 +33,27 @@ MongoDB, PostgreSQL, MySQL, TypeORM, Redis, Vector Databases
 | **Other**           | Digital Ocean, Jambonz |
 
 ### 🐳 Containerization & Version Control
-Docker, Docker Compose, Git, GitLab, Bitbucket
+| **Category**                     | **Technologies** |
+|-----------------------------------|--------------|
+| **Containerization & VCS**       | Docker, Docker Compose, Git, GitLab, Bitbucket |
 
 ### 🧪 Testing
-Jest, Cypress
-
-### 🖌 UI
-HTML, CSS, SASS/SCSS, Ant Design, Material UI
+| **Category**        | **Technologies** |
+|---------------------|--------------|
+| **Testing**         | Jest, Cypress |
 
 ### 🤖 AI & Machine Learning
-- **LLM Frameworks & Platforms:** LangChain, OpenAI, Vercel AI SDK, FalAI, MCP, RAG
-- **Computer Vision:** YOLO26, SAM3, Google Vision, Google Video Intelligence
-- **Speech & Audio:** Speech-to-Text Synthesizers, Google Speech Services
+| **Category**                     | **Technologies** |
+|-----------------------------------|--------------|
+| **LLM Frameworks & Platforms**   | LangChain, OpenAI, Vercel AI SDK, FalAI, MCP, RAG |
+| **Computer Vision**              | YOLO26, SAM3, Google Vision, Google Video Intelligence |
+| **Speech & Audio**               | Speech-to-Text Synthesizers, Google Speech Services |
 
 ### 🔗 Third-Party Integrations
-- **Meta:** Facebook API, Instagram API
-- **Google:** Cloud Storage, Google AI, YouTube API, Video Intelligence, Vision API
+| **Provider**  | **Services** |
+|---------------|--------------|
+| **Meta**      | Facebook API, Instagram API |
+| **Google**    | Cloud Storage, Google AI, YouTube API, Video Intelligence, Vision API |
 
 
 
