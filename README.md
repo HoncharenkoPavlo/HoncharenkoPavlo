@@ -47,7 +47,7 @@ Jest, Cypress
 HTML, CSS, SASS/SCSS, Ant Design, Material UI
 
 ### 🤖 AI & Machine Learning
-- **LLM Frameworks & Platforms:** LangChain, OpenAI, Vercel AI SDK, FalAI, MCP AI Agents
+- **LLM Frameworks & Platforms:** LangChain, OpenAI, Vercel AI SDK, FalAI, MCP, RAG
 - **Computer Vision:** YOLO26, SAM3, Google Vision, Google Video Intelligence
 - **Speech & Audio:** Speech-to-Text Synthesizers, Google Speech Services
 
