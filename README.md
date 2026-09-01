@@ -18,17 +18,42 @@ I have extensive experience in developing scalable web and mobile applications, 
 
 ## 🛠 Skills
 
-| **Category**           | **Technologies**                                  |  
-|-------------------------|--------------------------------------------------|  
-| **Languages**           | JavaScript/TypeScript, SQL        |  
-| **Frontend**            | React, Next.js, React Native, Expo, Redux, Apollo GraphQL, RTK, tRPC, SipJs             |  
-| **Backend**             | Express, NestJS, GraphQL/Rest                               |  
-| **Services**        | AWS (Elastic Beanstalk, ECR, RDS, Lambda, LB, Cognito, S3, Code Build, Code Pipeline, EC2, IAM, Cloud Watch), Azure (App Service, Container Registry, Application Insights), Digital Ocean, Jambonz                  | 
-| **Databases**           | MongoDB, PostgreSQL, MySQL, Vector, TypeORM, Redis                             |  
-| **Testing Libraries**   | Jest, Cypress                   |  
-| **User Interface**      | HTML, CSS, SASS/SCSS, Ant Design, Material UI   |  
-| **Version Control**     | Git, GitLab Bitbucket                                              |  
-| **Containerization**    | Docker, Doecker compose                                           |  
+### 💻 Languages
+JavaScript/TypeScript, SQL
+
+### 🎨 Frontend
+React, Next.js, React Native, Expo, Redux, RTK, Apollo GraphQL, tRPC, Axios, SipJs
+
+### ⚙️ Backend
+Express, NestJS, GraphQL/REST, WebSockets, BullMQ (NestJS integration)
+
+### 🗄 Databases
+MongoDB, PostgreSQL, MySQL, TypeORM, Redis, Vector Databases
+
+### ☁️ Cloud & DevOps
+| **Provider**       | **Services** |
+|---------------------|--------------|
+| **AWS**             | Elastic Beanstalk, Amplify, ECR, RDS, Lambda, LB, Cognito, S3, Secrets Manager, Code Build, Code Pipeline, EC2, IAM, Cloud Watch |
+| **Azure**           | App Service, Container Registry, Application Insights |
+| **Other**           | Digital Ocean, Jambonz |
+
+### 🐳 Containerization & Version Control
+Docker, Docker Compose, Git, GitLab, Bitbucket
+
+### 🧪 Testing
+Jest, Cypress
+
+### 🖌 UI
+HTML, CSS, SASS/SCSS, Ant Design, Material UI
+
+### 🤖 AI & Machine Learning
+- **LLM Frameworks & Platforms:** LangChain, OpenAI, Vercel AI SDK, FalAI, MCP AI Agents
+- **Computer Vision:** YOLO26, SAM3, Google Vision, Google Video Intelligence
+- **Speech & Audio:** Speech-to-Text Synthesizers, Google Speech Services
+
+### 🔗 Third-Party Integrations
+- **Meta:** Facebook API, Instagram API
+- **Google:** Cloud Storage, Google AI, YouTube API, Video Intelligence, Vision API
 
 
 
